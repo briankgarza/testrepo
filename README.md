@@ -1,3 +1,2 @@
-# testrepo
-Adding stuff
-Adding more stuff
+fun python
+python and git are fungit status
