@@ -1,2 +1,1 @@
-fun python
-python and git are fun
+Have a good night
