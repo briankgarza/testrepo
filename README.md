@@ -1,2 +1,2 @@
 fun python
-python and git are fungit status
+python and git are fun
